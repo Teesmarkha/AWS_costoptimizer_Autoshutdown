@@ -100,4 +100,6 @@ This project is released for educational and personal AWS optimization use. Use 
 
 ## Author
 
-*Ansh Negi*
+**Vibhor Nautiyal**
+**Ansh Negi**
+
